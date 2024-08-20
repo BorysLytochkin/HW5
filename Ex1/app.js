@@ -1,8 +1,8 @@
 "use strict"
 
 function durationBetweenDates(
-    firstDate = ' ', 
-    secDate = ' ', 
+    firstDate = '19.08.2024', 
+    secDate = '20.08.2024', 
     dimension = 'days' ) {  
 
     const start = new Date(firstDate);
